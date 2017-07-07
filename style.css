@@ -6,6 +6,9 @@
     margin:0; /* 여백없애기 */
     display: flex;
     justify-content: center;
+ *{
+   font-family: 'Hind Siliguri', sans-serif;
+ }
   }
   nav{
     position: fixed;
@@ -27,7 +30,6 @@
     margin-top: 50%;
     background-color: rgba(255, 255, 255, 0.54);
     padding: 0.3rem;
-    font-family: 'Hind Siliguri', sans-serif;
   }
   body h5{
     text-align: center;
